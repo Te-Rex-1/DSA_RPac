@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "vector": "cpp",
+        "iterator": "cpp",
+        "xmemory": "cpp",
+        "xutility": "cpp"
+    },
+    "cmake.configureOnOpen": true,
+    "C_Cpp.errorSquiggles": "disabled"
+}
